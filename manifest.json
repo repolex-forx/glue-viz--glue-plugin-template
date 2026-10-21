@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "glue-plugin-template",
+  "versions": [
+    {
+      "commit": "c46742a3b3f0e873a97c0556462c380935255a9f",
+      "parsed_at": "2026-10-21T22:02:33.240750+00:00",
+      "filetree": "filetree/c46742a3b3f0e873a97c0556462c380935255a9f.nq.gz",
+      "blobs": [
+        "blob/229e5765e04414dbb2906d0f1fbd11f088853d69.nq.gz",
+        "blob/5a44a978cbc8461ed2d647067ac1132d81c87d4a.nq.gz",
+        "blob/aaff5ff6dad63173d615c01fd1a8b937bc4cd85c.nq.gz",
+        "blob/e0b254e0c571563ce1c332660f91eb402ca195af.nq.gz",
+        "blob/e851e58bf4c7b631d2a67f501bb74c7a2b0a8217.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
